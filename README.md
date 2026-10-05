@@ -5,7 +5,7 @@
 ## 專案與版本
 
 - 英文專案名稱／Repository：`boar-weather-rangers`
-- 目前版本：`v0.3.0`
+- 目前版本：`v0.3.1`
 - GitHub：<https://github.com/prayer168/boar-weather-rangers>
 - GitHub Pages：<https://prayer168.github.io/boar-weather-rangers/>
 - 開發與 YouTube 製作歷程：[`history.md`](history.md)
@@ -38,7 +38,8 @@
 | v0.1.0 | `442c28b` | 建立三語遊戲原型與三關探究任務 |
 | v0.1.1 | `2da92c8` | 修正關卡觀測站座標 |
 | v0.2.0 | `3690310` | 加入 YouTube 製作歷程與 GitHub Pages |
-| v0.3.0 | 本次提交 | 全面改為競技場式遊戲 HUD 與任務循環 |
+| v0.3.0 | `c8c6104` | 全面改為競技場式遊戲 HUD 與任務循環 |
+| v0.3.1 | 本次提交 | 放大畫面並加入全螢幕及返回主畫面控制 |
 
 ## 課程與來源
 
