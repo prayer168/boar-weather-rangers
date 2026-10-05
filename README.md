@@ -5,7 +5,7 @@
 ## 專案與版本
 
 - 英文專案名稱／Repository：`boar-weather-rangers`
-- 目前版本：`v0.3.2`
+- 目前版本：`v0.3.3`
 - GitHub：<https://github.com/prayer168/boar-weather-rangers>
 - GitHub Pages：<https://prayer168.github.io/boar-weather-rangers/>
 - 開發與 YouTube 製作歷程：[`history.md`](history.md)
@@ -40,7 +40,8 @@
 | v0.2.0 | `3690310` | 加入 YouTube 製作歷程與 GitHub Pages |
 | v0.3.0 | `c8c6104` | 全面改為競技場式遊戲 HUD 與任務循環 |
 | v0.3.1 | `ef844fb` | 放大畫面並加入全螢幕及返回主畫面控制 |
-| v0.3.2 | 本次提交 | 修正部署按鈕、擴大森林主場景並放大字體和鍵盤提示 |
+| v0.3.2 | `b481e8d` | 修正部署按鈕、擴大森林主場景並放大字體和鍵盤提示 |
+| v0.3.3 | 本次提交 | 修正初始化翻譯渲染錯誤；任務標籤字級加倍 |
 
 ## 課程與來源
 
