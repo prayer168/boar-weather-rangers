@@ -4,6 +4,7 @@
 - 補上 YouTube 影片製作可沿用的專案歷程、畫面素材方向與科學檢核重點。
 - 更新 README 的 repository、版本與部署資訊。
 - 建立 GitHub repository 並推送 `main`。
+- 加入 GitHub Actions Pages 部署流程。
 
 ## v0.1.1
 - 修正三個任務的觀測站目標位置。

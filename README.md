@@ -7,7 +7,7 @@
 - 英文專案名稱／Repository：`boar-weather-rangers`
 - 目前版本：`v0.2.0`
 - GitHub：<https://github.com/prayer168/boar-weather-rangers>
-- GitHub Pages：<https://prayer168.github.io/boar-weather-rangers/>（首次發布後請確認 Pages 建置狀態）
+- GitHub Pages：<https://prayer168.github.io/boar-weather-rangers/>（由 GitHub Actions 發布）
 - 開發與影片製作歷程：[`history.md`](history.md)
 
 ## 適用對象
