@@ -3,9 +3,13 @@
   "englishTitle": "Boar Weather Rangers",
   "repositoryName": "boar-weather-rangers",
   "repositoryNameSource": "english-title",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "subject": "國小自然科學",
   "gradeAssumption": "國小中高年級（待教師確認）",
-  "languages": ["zh-TW", "en", "ko"],
+  "languages": [
+    "zh-TW",
+    "en",
+    "ko"
+  ],
   "curriculum": "115學年度康軒版 單元一：探索天氣的變化"
 }
