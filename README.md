@@ -8,6 +8,7 @@
 - 目前版本：`v0.3.8`
 - GitHub：<https://github.com/prayer168/boar-weather-rangers>
 - GitHub Pages：<https://prayer168.github.io/boar-weather-rangers/>
+- 臉書分享文案（中英雙語）：<https://prayer168.github.io/boar-weather-rangers/share/facebook-post.html>
 - 開發與 YouTube 製作歷程：[`history.md`](history.md)
 
 ## 設計假設
@@ -45,7 +46,9 @@
 | v0.3.4 | `9e7d130` | 修正六角格座標參數錯誤，恢復任務部署流程 |
 | v0.3.5 | `4d8509d` | 桌面任務標籤放大至 24px，手機版 18px |
 | v0.3.6 | `97b3a1f` | 修正底部操作列被頁尾遮擋 |
-| v0.3.8 | 本次提交 | 修正最終結算返回基地時的畫面重疊 |
+| v0.3.7 | `d9afa98` | 修正最終結算返回基地時的畫面重疊 |
+| v0.3.8 | `eaada97` | 放大左右任務側欄字體並調整響應式欄寬 |
+
 
 ## 課程與來源
 
