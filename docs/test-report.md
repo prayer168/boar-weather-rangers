@@ -28,6 +28,5 @@
 
 ## 備註
 
-- 舊檔 [boar-weather-test-v033.webm](test-evidence/boar-weather-test-v033.webm) 是早期中斷錄影，不作為正式測試證據。
 - 此次依使用者要求完成瀏覽器互動測試；使用 agent-browser 控制 Chrome，沒有宣稱使用 Playwright test runner。
 - 天氣／長期摘要是遊戲內教學資料。課本適用年級及官方課程細節仍待教師核對。
